@@ -24,7 +24,7 @@ The Ultimate AIsn't Governance Dictionary-In-Training
 
 **ChatGPT** (v.) — to ask a precise question and get a precise answer that has very little bearing on context, or reality, or anything really.
 
-**Clauding** (v.) — also pp. clauded. To get excited and ambitious with your projects only to have the token rod pulled from beneath you. ext. overclauding, pp. overclauded — to leave a superior LLM because they've pissed you off.
+**Clauding** (v.) — also pp. clauded. To get excited and ambitious with your projects only to have the token rod pulled from beneath you. ext. overclauding, (pp.) overclauded — to leave a superior LLM because they've pissed you off.
 
 **Codexify** (v.) — to start using an LLM coding app as contingency, only to swap to using it as primary because you've been clauded too much. see clauding, overclauding.
 
@@ -72,7 +72,7 @@ The Ultimate AIsn't Governance Dictionary-In-Training
 
 **Prompt injection** (n.) — demonstration that the fence around the wrong field also has inbuilt gaps.
 
-**RAG** (acron.) — correct data paraphrased until the meaning is excised. Once 'red amber green', now 'really anyone's guess'.
+**RAG** (acron.) — correct data paraphrased until the meaning is excised. Once "red amber green", now "really anyone's guess".
 
 **Responsible AI** (n.) — right…
 
