@@ -1,8 +1,7 @@
-# Glossary-Of-AIsnt-Terms
-The Ultimate AIsn't Governance Dictionary-In-Training
+
 # The Ultimate AIsn't Governance Dictionary-In-Training
 
----
+
 
 **Agentic** (v.) — to create a dangerous adlibber of data, replace all your staff with it, thereby driving off your client base through being unable to deliver even basic first-line service.
 
@@ -82,7 +81,7 @@ The Ultimate AIsn't Governance Dictionary-In-Training
 
 **Training data** (n.) — lowest common denominator papp without context, subtext or thought as to results.
 
----
+   
 
 This glossary is satire. Obvs. All definitions are my opinion and just a bit of fun. Commentary innit. Any resemblance to conditions that are entirely accurate is, regrettably, not coincidental. Innit.
 
